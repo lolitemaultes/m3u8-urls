@@ -34,3 +34,7 @@ Here's a curated list of M3U8 streams for testing with **M3U8ME**. These URLs co
   [http://amssamples.streaming.mediaservices.windows.net/69fbaeba-8e92-4740-aedc-ce09ae945073/AzurePromo.ism/manifest(format=m3u8-aapl)](http://amssamples.streaming.mediaservices.windows.net/69fbaeba-8e92-4740-aedc-ce09ae945073/AzurePromo.ism/manifest(format=m3u8-aapl))
 - **4K HLSv4 M3U8**:
   [http://amssamples.streaming.mediaservices.windows.net/634cd01c-6822-4630-8444-8dd6279f94c6/CaminandesLlamaDrama4K.ism/manifest(format=m3u8-aapl)](http://amssamples.streaming.mediaservices.windows.net/634cd01c-6822-4630-8444-8dd6279f94c6/CaminandesLlamaDrama4K.ism/manifest(format=m3u8-aapl))
+
+## 🚀 Testing 
+
+Feel free to test these URLs with my brand new tool '[yt-mtdl](https://github.com/lolitemaultes/yt-mtdl)', the universal video stream downloader using yt-dlp with multi-threaded download capabilities.
